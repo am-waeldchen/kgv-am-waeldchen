@@ -2,7 +2,7 @@
 layout: page
 title: Datenschutzerklärung
 nav_order: 11
-permalink: /datenschutz/
+permalink: /kgv-am-waeldchen/datenschutz/
 nav_exclude: true
 ---
 
