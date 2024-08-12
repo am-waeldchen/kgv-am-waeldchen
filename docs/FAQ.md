@@ -1,0 +1,99 @@
+---
+layout: page
+title: FAQ
+nav_order: 2
+permalink: /faq/
+---
+
+# Fragen und Antworten
+
+## Grundstücksgestaltung
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7 hover:text-teal-900">Wie berechne ich meine Nutzfläche?</span></summary>
+
+  <p class="mt-2 pr-12 leading-7 text-gray-600">
+    Auf mindestens einem Drittel der Kleingartenfläche laut Pachtvertrag sind für in der Kleingärten typischen Vielfalt Obst- und Gemüsekulturen anzubauen.
+  </p>
+  <a class="text-teal-600 font-medium hover:text-teal-500" href="/anbau">
+    Du kannst deine Nutzfläche ganz einfach berechnen.
+  </a>
+</details>
+
+<details class="py-4">
+  <summary><span class="font-semibold leading- text-gray-600">Ich habe Hochbeete. Wie werden die Wege für die Nutzfläche berechnet?</span></summary>
+  <p class="mt-2 pr-12 leading-7 text-gray-600">
+
+  </p>
+</details>
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-600">Was darf ich nicht pflanzen?</span></summary>
+</details>
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-600">Ich möchte mein Pachtgrundstück baulich verändern. Worauf muss ich achten?</span></summary>
+</details>
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-600">Was darf ich nicht bauen?</span></summary>
+</details>
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-600">Ich möchte einen Komposter aufstellen. Worauf muss ich achten?</span></summary>
+</details>
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-600">Werden Regentonnen und Komposter zur Nutzfläche gerechnet?</span></summary>
+</details>
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-600">Ich möchte eine Bewässerungsanlage installieren. Was muss ich beachten?</span></summary>
+</details>
+
+## Organisatorisches
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-600">Wie und wo kann ich Abfall entsorgen?</span></summary>
+</details>
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-600">Und wie ist das mit dem Sperrmüll?</span></summary>
+</details>
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-600">Wann wird das Wasser ab- und angestellt?</span></summary>
+</details>
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-900">Darf ich Schnittreste verbrennen?</span></summary>
+  <p>Unter Punkt 3 der Gartenordnung steht hierzu folgendes:</p>
+  <p>„(9) Das Verbrennen oder Verräuchern von Gartenabfällen ist ausnahmslos verboten. Siehe dazu das Landesimmissionsschutzgesetz (LImschG)
+  Das Verbrennen von unbehandeltem, trockenem Holz in Feuerschalen o. ä. ist gestattet.
+  Dabei sind alle Sicherheitsfaktoren wie Windstärke, Windrichtung und Standort zu berücksichtigen.</p>
+  <p>Es ist Rücksicht auf andere Vereinsmitglieder zu nehmen.
+  (Mit Holzschutzmitteln, Öl bzw. Farbe behandeltes Holz, Plastik, Teer- oder Dachpappe und Faserplatten dürfen nicht verbrannt werden).“</p>
+</details>
+
+## Miteinander
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-900">Welche Ruhezeiten muss ich einhalten?</span></summary>
+  <p>An Werktagen (Mo. – Sa.) in der Zeit von 13.00 bis 15.00 Uhr und von 22.00 bis 06.00 Uhr, sowie an Sonn- und Feiertagen grundsätzlich ganztägig.</p>
+
+  <p>Es ist untersagt, während der Ruhezeiten motorgetriebene Gartengeräte zu nutzen oder lärmverursachendes Bauen auszuführen.</p>
+  -- Gartenordnung 6.4
+</details>
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-600">Müssen sich Baufirmen auch an die Ruhezeiten halten?</span></summary>
+</details>
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-600">Darf ich auf meinem Pachtgrundstück grillen oder ein Lagerfeuer machen?</span></summary>
+</details>
+
+<details class="py-4">
+  <summary><span class="font-semibold leading-7  hover:text-teal-900 text-gray-600">Ich möchte eine Party feiern. Muss ich wirklich alle Vereinsmitglieder einladen?</span></summary>
+</details>
+
