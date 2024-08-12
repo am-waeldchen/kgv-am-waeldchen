@@ -24,21 +24,21 @@ Ihr könnt den Entsorgungsbetrieb Märkisch-Oderland (EMO) mit der Abholung von 
 
 Klickt auf den Button und füllt das Formular aus. Der Abholtermin wird Euch innerhalb von vier Wochen per Postkarte oder per E-Mail an die angegebene E-Mail-Adresse mitgeteilt.
 
-[Link zum Sperrmüllantrag](https://www.entsorgungsbetrieb-mol.de/de/anmeldungformular_sperrmuell.html)
+[Link zum Sperrmüllantrag](https://www.entsorgungsbetrieb-mol.de/de/anmeldungformular_sperrmuell.html){:target="_blank"}
 
 ## Bauantrag
 
 addad
 
-[TODO Link zum Bauantrag](#)
+[TODO Link zum Bauantrag](#){:target="_blank"}
 
 ## Mitgliedsantrag
 
 Lieber Mitglied als ohne Glied
 
-[Mitgliedantrag](../assets/pdf/Mitgliedsantrag.pdf)
+[Mitgliedantrag](../assets/pdf/Mitgliedsantrag.pdf){:target="_blank"}
 
 ## Kündigung
 Kündigung des Pachtvertrags und der Mitgliedschaft
 
-[TODO Kündigung](#)
+[TODO Kündigung](#){:target="_blank"}
