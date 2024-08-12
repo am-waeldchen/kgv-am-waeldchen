@@ -5,7 +5,7 @@ date:   2024-07-29 14:40:27 +0200
 # categories: jekyll update
 ---
 
-![Abfuhrkalender](../assets/images/Abfuhrkalender2024-2.png)
+![Abfuhrkalender](../../assets/images/Abfuhrkalender2024-2.png)
 
 
 Ihr könnt euch den Kalender der Abfuhrtermine auch als pdf ansehen:
