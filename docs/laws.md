@@ -15,13 +15,15 @@ Die Gartenordnung basiert auf dem Bundeskleingartengesetz und der Rahmengartenor
 des Landesverbandes Brandenburg der Gartenfreunde e.V. Sie enthält unser aller Rechte und Pflichten und ist Bestandteil des Kleingartenpachtvertrages.
 Über Änderungen stimmt die Mitgliederversammlung ab.
 
-[TODO Gartenordnung](pdf/Gartenordnung.pdf){:target="_blank"}
+Es wird bald eine neue Gartenordnung geben!
+
+[Gartenordnung als pdf]({{ "/assets/files/Gartenordnung.pdf" | relative_url }}){:target="_blank"}
 
 ## Satzung
 
 Ohne Satzung kein Verein. Von der Gründung über den Vereinszweck bis hin zu den Gremien ist hierin alles fixiert.
 
-[TODO Satzung](pdf/Satzung.pdf){:target="_blank"}
+[Satzung als pdf]({{ "/assets/files/Satzung.pdf" | relative_url }}){:target="_blank"}
 
 
 ## Bundeskleingartengesetz
