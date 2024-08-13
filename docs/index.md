@@ -2,11 +2,32 @@
 layout: home
 ---
 
-<!-- <article> -->
-# Abfuhrkalender 2024
+{% assign yellow = "" | split: ',' %}
+{% assign house = "" | split: ',' %}
+{% assign today = site.time | date: "%s" %}
 
-![Abfuhrkalender]({{ "assets/images/Abfuhrkalender2024-2.png" | relative_url }})
+{% for mol in site.data.mol %}
+  {% assign housdate =  mol.Hausmuell | date: "%s" %}
+  {% assign yellowdate =  mol.Verpackung | date: "%s" %}
 
+  <!-- Push into array -->
+  {% if today <= housdate %}
+    {% assign house = house | push: mol.Hausmuell %}
+  {% endif %}
+  {% if today <= yellowdate %}
+    {% assign yellow = yellow | push: mol.Verpackung %}
+  {% endif %}
+{% endfor %}
+
+## Müllabfuhr 2024
+
+Nächste Termine:
+<!-- {% assign one = yellow | first | date: '%A, %d.%m.%Y' %} -->
+
+### Gelber Sack: {{ yellow | first }}
+### Hausmüll: {{ house | first}}
+
+---
 Ihr könnt euch den Kalender der Abfuhrtermine auch als pdf ansehen:
 
 [Kalender als pdf](https://api.abfall.io/?key=efb75cbd1f08fae1d4e47ae72a85c655&mode=export&idhousenumber=5659&wastetypes=18,48,295&timeperiod=20240101-20241231&showinactive=false&type=pdf){:target="_blank"}
