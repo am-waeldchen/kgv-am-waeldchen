@@ -14,6 +14,7 @@ url: "https://am-waeldchen.github.io" # the base hostname & protocol for your si
 # Build settings
 # theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
+color_scheme: green
 
 search_enabled: false
 favicon_ico: "/assets/favicon.ico"
