@@ -2,10 +2,14 @@
   <ul class="nav-list">
     <li class="nav-list-item">
       <a
-      class="{% if {{page.url}} == '/impressum/' %}active{% endif %} nav-list-link" href="/kgv-am-waeldchen/impressum">Impressum</a>
+      class="{% if {{page.url}} == '/impressum/' %}active{% endif %} nav-list-link" href="{{ /impressum | relative_url }}">
+        Impressum
+      </a>
     </li>
     <li class="nav-list-item">
-      <a  class="{% if {{page.url}} == '/datenschutz/' %}active{% endif %} nav-list-link" href="/kgv-am-waeldchen/datenschutz">Datenschutzerklärung</a>
+      <a  class="{% if {{page.url}} == '/datenschutz/' %}active{% endif %} nav-list-link" href="{{ /datenschutz | relative_url }}">
+        Datenschutzerklärung
+      </a>
     </li>
   </ul>
 </nav>
