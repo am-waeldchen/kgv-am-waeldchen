@@ -6,3 +6,8 @@ $green-300: #134e4a; // teal-900
 
 $link-color: $green-100;
 $sidebar-color: #f8fafc; // slate-50
+
+.nav-list > .nav-list-item > a.nav-list-link {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
