@@ -18,6 +18,12 @@ color_scheme: green
 remote_color_scheme: green
 
 search_enabled: false
+callouts:
+  note:
+    title: Obacht
+    color: purple
+
+
 favicon_ico: "/assets/favicon.ico"
 
 # Exclude from processing.
