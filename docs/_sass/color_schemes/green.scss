@@ -33,3 +33,18 @@ $sidebar-color: #f8fafc; // slate-50
   }
 }
 
+details {
+  cursor: pointer;
+}
+details > summary {
+  list-style: none;
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+  font-weight: 500;
+  &:hover {
+    color: $green-200;
+  }
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
