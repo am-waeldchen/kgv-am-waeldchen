@@ -41,9 +41,9 @@ details > summary {
   padding-bottom: 0.5rem;
   padding-top: 0.5rem;
   font-weight: 500;
-  &:hover {
-    color: $green-200;
-  }
+}
+details > summary:hover {
+  color: $green-200;
 }
 details > summary::-webkit-details-marker {
   display: none;
