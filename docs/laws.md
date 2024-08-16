@@ -33,6 +33,13 @@ Das Bundeskleingartengesetz ist Basis unserer Geschäftsordnung und hier verlink
 [Link zum Bundeskleingartengesetz](https://www.gesetze-im-internet.de/bkleingg){:target="_blank"}
 
 
+## Brandenburgische Bauordnung
+
+Änderungen oder Umbauten von Gebäuden auf den Parzellen sind nur in Übereinstimmung mit der Bauordnung vom Land Brandenburg möglich.
+
+[Link zur Brandenburgischen Bauordnung](https://bravors.brandenburg.de/gesetze/bbgbo_2016){:target="_blank"}
+
+
 ## Landesimmissionsschutzgesetz
 
 Zweck dieses Gesetzes ist es, die Wahrnehmung der Aufgaben des Landes im Bereich des Immissionsschutzes sicherzustellen.
