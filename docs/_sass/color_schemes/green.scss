@@ -4,6 +4,11 @@ $green-100: #0f766e; // teal-700
 $green-200: #115e59; // teal-800
 $green-300: #134e4a; // teal-900
 
+$purple-000: #7253ed;
+$purple-100: #5e41d0;
+$purple-200: #4e26af;
+$purple-300: #381885;
+
 $link-color: $green-100;
 $sidebar-color: #f8fafc; // slate-50
 
@@ -12,7 +17,19 @@ $sidebar-color: #f8fafc; // slate-50
   padding-bottom: 0.5rem;
 }
 .note-title > p > strong {
-  color: #381885;
+  color: $purple-200;
   padding-top: 0.5rem;
-  // display: block;
 }
+
+@media(max-width: 800px) {
+  .main-header.nav-open > p {
+    display: none;
+  }
+  .site-title::after {
+    content: 'Wir sind Fans - Alles inoffiziell';
+    color: $purple-200;
+    font-size: 1rem;
+    margin-left: 2rem;
+  }
+}
+
