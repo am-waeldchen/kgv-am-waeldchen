@@ -33,6 +33,16 @@ $sidebar-color: #f8fafc; // slate-50
   }
 }
 
+footer {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+footer > p > a {
+  text-decoration: none;
+}
+
 details {
   cursor: pointer;
 }

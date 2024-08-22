@@ -7,12 +7,58 @@ permalink: /faq/
 
 # Fragen und Antworten
 
+<!-- Ob Sie nun Neumitglied in unserem Verein sind oder bereits seit Jahrzehnten begeistert gärtern, gelegentlich stellen Sie sich bestimmt Fragen, die wir an dieser Stelle so ausführlich wie möglich beantworten möchten. -->
+
+Diese Seite wird fortlaufend ergänzt.
+
+Haben wir etwas Wichtiges vergessen? Dann schreib uns. Irgendwie.
+
+
+## Miteinander
+
+<details>
+  <summary class="fs-5">Welche Ruhezeiten muss ich einhalten?</summary>
+  <p>An Werktagen (Mo. – Sa.) in der Zeit <strong>von 13.00 bis 15.00 Uhr</strong> und von <strong>22.00 bis 06.00 Uhr</strong>,
+  sowie an Sonn- und Feiertagen grundsätzlich ganztägig.</p>
+
+  <p>Es ist untersagt, während der Ruhezeiten motorgetriebene Gartengeräte zu nutzen oder lärmverursachendes Bauen auszuführen.<br>
+  -- Gartenordnung 6.4</p>
+
+  <p>Die Lautstärke von Rundfunk-, Fernseh- und Phonogeräten u. ä. ist so abzustimmen, dass niemand belästigt wird. Gleiches gilt für das Spielen von Musikinstrumenten jeder Art.</p>
+
+</details>
+
+<!-- <details>
+  <summary class="fs-5">Müssen sich Baufirmen auch an die Ruhezeiten halten?</summary>
+</details> -->
+
+<details>
+  <summary class="fs-5">Darf ich auf meinem Pachtgrundstück grillen oder ein Lagerfeuer machen?</summary>
+
+  <p>Das Verbrennen von naturbelassenem trockenem Holz unter Verwendung von Feuerschalen, -körben und ortsfesten Kaminen, in Heizungsanlagen sowie auf einer Grundfläche von 1x1 m möglich.<br>
+  Ihr solltet natürlich aufpassen, Löschmittel bereitstellen und niemanden durch Geruch oder Rauch belästigen.</p>
+
+</details>
+
+<details>
+  <summary class="fs-5">Ich möchte eine Party feiern. Muss ich wirklich alle Vereinsmitglieder einladen?</summary>
+
+  <p>Nein.
+  Aber du musst den Vorstand und deine angrenzenden NachbarInnen rechtzeitig informieren.
+  Ein Aushang kann sinnvoll sein.</p>
+
+</details>
+
+
 ## Grundstücksgestaltung
 
 <details>
-  <summary class="fs-5" class="fs-5">Wie berechne ich meine Nutzfläche?</summary>
+  <summary class="fs-5" class="fs-5">Wie viel muss ich anbauen?</summary>
 
-  <p>Auf mindestens <strong>einem Drittel</strong> der Kleingartenfläche laut Pachtvertrag sind für in der Kleingärten typischen Vielfalt Obst- und Gemüsekulturen anzubauen.</p>
+  <p>
+    Auf mindestens <strong>einem Drittel</strong> der Kleingartenfläche laut Pachtvertrag sind für in der Kleingärten typischen Vielfalt Obst- und Gemüsekulturen anzubauen.
+  </p>
+
   <!-- <a class="text-teal-600 font-medium hover:text-teal-500" href="/anbau">
     Du kannst deine Nutzfläche ganz einfach berechnen.
   </a> -->
@@ -196,6 +242,14 @@ permalink: /faq/
 ## Organisatorisches
 
 <details>
+  <summary class="fs-5">Kann ich mir Gartengeräte auseihen?</summary>
+
+  <p>Ja. Allerding ist es ein Geheimnis, an wen du dich da wenden musst. Wenn du es herausfindest, schreib mir gern.</p>
+  <p>Ein Tipp: der Vorstand kann helfen.</p>
+
+</details>
+
+<details>
   <summary class="fs-5">Wie und wo kann ich Abfall entsorgen?</summary>
 
   <p>Für die gelben Säcke gibt es am Haupttor eine Hakenleiste zur Anbringung.
@@ -237,39 +291,3 @@ permalink: /faq/
   (Mit Holzschutzmitteln, Öl bzw. Farbe behandeltes Holz, Plastik, Teer- oder Dachpappe und Faserplatten dürfen nicht verbrannt werden).“</p>
 
 </details>
-
-## Miteinander
-
-<details>
-  <summary class="fs-5">Welche Ruhezeiten muss ich einhalten?</summary>
-  <p>An Werktagen (Mo. – Sa.) in der Zeit <strong>von 13.00 bis 15.00 Uhr</strong> und von <strong>22.00 bis 06.00 Uhr</strong>,
-  sowie an Sonn- und Feiertagen grundsätzlich ganztägig.</p>
-
-  <p>Es ist untersagt, während der Ruhezeiten motorgetriebene Gartengeräte zu nutzen oder lärmverursachendes Bauen auszuführen.<br>
-  -- Gartenordnung 6.4</p>
-
-  <p>Die Lautstärke von Rundfunk-, Fernseh- und Phonogeräten u. ä. ist so abzustimmen, dass niemand belästigt wird. Gleiches gilt für das Spielen von Musikinstrumenten jeder Art.</p>
-
-</details>
-
-<!-- <details>
-  <summary class="fs-5">Müssen sich Baufirmen auch an die Ruhezeiten halten?</summary>
-</details> -->
-
-<details>
-  <summary class="fs-5">Darf ich auf meinem Pachtgrundstück grillen oder ein Lagerfeuer machen?</summary>
-
-  <p>Das Verbrennen von naturbelassenem trockenem Holz unter Verwendung von Feuerschalen, -körben und ortsfesten Kaminen, in Heizungsanlagen sowie auf einer Grundfläche von 1x1 m möglich.<br>
-  Ihr solltet natürlich aufpassen, Löschmittel bereitstellen und niemanden durch Geruch oder Rauch belästigen.</p>
-
-</details>
-
-<details>
-  <summary class="fs-5">Ich möchte eine Party feiern. Muss ich wirklich alle Vereinsmitglieder einladen?</summary>
-
-  <p>Nein.
-  Aber du musst den Vorstand und deine angrenzenden NachbarInnen rechtzeitig informieren.
-  Ein Aushang kann sinnvoll sein.</p>
-
-</details>
-
