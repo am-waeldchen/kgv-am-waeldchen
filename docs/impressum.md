@@ -2,7 +2,7 @@
 layout: page
 title: Impressum
 nav_order: 10
-permalink: /kgv-am-waeldchen/impressum/
+permalink: /impressum/
 nav_exclude: true
 ---
 
