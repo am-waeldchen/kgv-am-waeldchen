@@ -5,9 +5,7 @@ date:   2024-07-30 10:00:27 +0200
 categories: aushang
 ---
 
-Sehr geehrte Gartenfreundin, sehr geehrter Gartenfreund,
-
-der Vorstand lädt zur Mitgliederversammlung ein:
+Der Vorstand lädt zur Mitgliederversammlung ein:
 
 **14. September um 10 Uhr auf dem Festplatz**
 

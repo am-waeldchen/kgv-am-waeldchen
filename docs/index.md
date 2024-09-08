@@ -10,7 +10,6 @@ layout: home
   {% assign housdate =  mol.Hausmuell | date: "%s" %}
   {% assign yellowdate =  mol.Verpackung | date: "%s" %}
 
-  <!-- Push into array -->
   {% if today <= housdate %}
     {% assign house = house | push: mol.Hausmuell %}
   {% endif %}
@@ -18,7 +17,6 @@ layout: home
     {% assign yellow = yellow | push: mol.Verpackung %}
   {% endif %}
 {% endfor %}
-<!-- {% assign one = yellow | first | date: '%A, %d.%m.%Y' %} -->
 
 {: .note-title }
 > Nächste Müllabholung
