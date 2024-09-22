@@ -4,17 +4,22 @@ layout: home
 
 {% assign yellow = "" | split: ',' %}
 {% assign house = "" | split: ',' %}
+{% assign green = "" | split: ',' %}
 {% assign today = site.time | date: "%s" %}
 
 {% for mol in site.data.mol %}
   {% assign housdate =  mol.Hausmuell | date: "%s" %}
   {% assign yellowdate =  mol.Verpackung | date: "%s" %}
+  {% assign greendate =  mol.Gruenabfall | date: "%s" %}
 
   {% if today <= housdate %}
     {% assign house = house | push: mol.Hausmuell %}
   {% endif %}
   {% if today <= yellowdate %}
     {% assign yellow = yellow | push: mol.Verpackung %}
+  {% endif %}
+  {% if today <= greendate %}
+    {% assign green = green | push: mol.Gruenabfall %}
   {% endif %}
 {% endfor %}
 
@@ -23,7 +28,9 @@ layout: home
 > {: .mb-lg-4 }
 > **Gelber Sack**: {{ yellow | first }}
 >
-> **Hausmüll**: {{ house | first}}
+> **Hausmüll**: {{ house | first }}
+>
+> **Grünabfall**: {{ green | first }}
 
 {: .text-zeta }
 Ihr könnt euch den Kalender der Abfuhrtermine auch als [pdf](https://api.abfall.io/?key=efb75cbd1f08fae1d4e47ae72a85c655&mode=export&idhousenumber=5659&wastetypes=18,48,295&timeperiod=20240101-20241231&showinactive=false&type=pdf){:target="_blank"} ansehen,
