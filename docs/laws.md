@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rechtliche Grundlagen
-nav_order: 4
+nav_order: 6
 permalink: /rechtliches/
 ---
 
