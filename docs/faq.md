@@ -215,12 +215,6 @@ Haben wir etwas Wichtiges vergessen? Dann schreib uns. Irgendwie.
 </details>
 
 <details>
-  <summary class="fs-5">Werden Regentonnen und Komposter zur Nutzfläche gerechnet?</summary>
-
-  <p>Nein.</p>
-</details>
-
-<details>
   <summary class="fs-5">Ich möchte eine Bewässerungsanlage installieren. Was muss ich beachten?</summary>
 
   <p>Das Thema "Wasserversorgung" ist in unserer Gartenordnung in Punkt 5.2. geregelt.<br>
@@ -291,3 +285,12 @@ Haben wir etwas Wichtiges vergessen? Dann schreib uns. Irgendwie.
   (Mit Holzschutzmitteln, Öl bzw. Farbe behandeltes Holz, Plastik, Teer- oder Dachpappe und Faserplatten dürfen nicht verbrannt werden).“</p>
 
 </details>
+
+<details>
+  <summary class="fs-5">Darf ich mit dem Auto in der Anlage fahren?</summary>
+
+  <p>Nein.</p>
+  <p>Es gibt natürlich Ausnehmen. In dem Fall musst du --- anrufen und um Erlaubnis bitten. Die Nummer findest du ----</p>
+
+</details>
+

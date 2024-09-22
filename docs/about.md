@@ -17,8 +17,37 @@ Oben is Norden ;)
 <br>
 ![lageplan](../assets/images/lageplan.png)
 
-### Adresse
+### Anschrift des Vereins
 
 Kleingartenverein "Am Wäldchen" e.V. Strausberg<br>
 Am Wäldchen<br>
 15344 Strausberg
+
+### Die Vorstandsmitglieder
+
+#### Vorsitzender
+Parzelle:
+Verantwortlich für:
+#### Stellvertreter
+Parzelle:
+Verantwortlich für:
+#### Schatzmeister
+Parzelle:
+Verantwortlich für:
+#### Schriftführerin
+Parzelle:
+Verantwortlich für:
+#### Beisitzer 1
+Parzelle:
+Verantwortlich für:
+#### Beisitzer 2
+Parzelle:
+Verantwortlich für:
+#### Beisitzer 3
+Parzelle:
+Verantwortlich für:
+
+#### Verantwortliche für Wasserversorgung
+#### Verantwortliche für Energieversorgung
+
+<!-- # Abschnitsverantwortliche -->
